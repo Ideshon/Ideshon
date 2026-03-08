@@ -29,12 +29,6 @@ h1, h2 {
   color: #aaa;
 }
 
-.container {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
 .grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 300px));
