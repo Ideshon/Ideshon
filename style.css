@@ -99,3 +99,11 @@ model-viewer {
   color: #cfcfcf;
   line-height: 1.5;
 }
+
+.card-links,
+.links-block {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 12px;
+}
